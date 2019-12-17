@@ -1,2 +1,3 @@
 name: Aminat Babatunde, Graphic Designer
 	markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
